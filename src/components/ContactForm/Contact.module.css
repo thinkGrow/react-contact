@@ -6,7 +6,8 @@
   /* margin-top: 40px;
   align-items: end; */
 }
-/* .top_btn {
+
+.top_btn {
   display: flex;
   gap: 32px;
 }
@@ -16,7 +17,8 @@
   flex-direction: column;
   gap: 24px;
 }
-.contact_form form {
+
+/* .contact_form form {
   display: flex;
   gap: 20px;
   padding-bottom: 20px;
