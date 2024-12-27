@@ -18,18 +18,20 @@
   gap: 24px;
 }
 
-/* .contact_form form {
+.contact_form form {
   display: flex;
   gap: 20px;
   padding-bottom: 20px;
   flex-direction: column;
 }
+
 .form_control {
   display: flex;
   flex-direction: column;
   width: 100%;
   position: relative;
 }
+
 .form_control input {
   height: 40px;
   padding: 0 8px;
@@ -45,4 +47,4 @@
   left: 10px;
   background-color: white;
   padding: 0 10px;
-} */
+}
