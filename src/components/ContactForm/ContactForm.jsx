@@ -41,7 +41,9 @@ const ContactForm = () => {
           </div>
         </form>
       </div>
-      <div className={styles.contact_image}></div>
+      <div className={styles.contact_image}>
+        <img src="/images/service.svg" alt="Contact Image" />
+      </div>
     </section>
   );
 };

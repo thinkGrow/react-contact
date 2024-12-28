@@ -2,9 +2,9 @@
   display: flex;
   max-width: 1000px;
   margin: 0 auto;
-  height: 72px;
-  /* margin-top: 40px;
-  align-items: end; */
+  /* height: 72px; */
+  margin-top: 40px;
+  align-items: end;
 }
 
 .top_btn {
