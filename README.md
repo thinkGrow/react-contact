@@ -1,5 +1,9 @@
 # React + Vite
 
+<!-- ![Alt text](relative/path/to/image.png) -->
+
+![Alt text](public/images/screenshot.png)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
